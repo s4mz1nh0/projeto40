@@ -1,0 +1,9 @@
+.active {
+  color: rgb(231, 44, 185);
+  font-style: oblique;
+  font-family: cursive;
+  font-size: 30px;
+}
+.tx {
+  font-size: 20px;
+}

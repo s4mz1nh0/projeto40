@@ -1,0 +1,9 @@
+.tab {
+  background-color: pink;
+}
+.tb:hover {
+  background-color: rgb(233, 27, 164);
+}
+.tr {
+  font-size: 20px;
+}

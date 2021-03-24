@@ -1,0 +1,82 @@
+{
+  "generos": [
+    {
+      "id": 1,
+      "nome": "Fantasia"
+    },
+    {
+      "id": 2,
+      "nome": "Heroi Ação"
+    },
+    {
+      "id": 3,
+      "nome": "Ficçao Ciêntífica"
+    },
+    {
+      "id": 4,
+      "nome": "Policial"
+    },
+    {
+      "id": 5,
+      "nome": "Comédia"
+    }
+  ],
+  "serie": [
+    {
+      "nome": "The Flash",
+      "ano": 2014,
+      "generoId": 2,
+      "status": "7x1",
+      "id": 1
+    },
+    {
+      "nome": "The 100",
+      "ano": 2014,
+      "generoId": 3,
+      "status": "7x1",
+      "id": 2
+    },
+    {
+      "nome": "Fate: A saga Winx",
+      "ano": 2021,
+      "generoId": 1,
+      "status": "1x2",
+      "id": 3
+    },
+    {
+      "nome": "Black Lightning",
+      "ano": 2018,
+      "generoId": 2,
+      "status": "3t concluída",
+      "id": 4
+    },
+    {
+      "nome": "The Mentalist",
+      "ano": 2008,
+      "generoId": 4,
+      "status": "Finalizado, assistirei de novo em 2 anos ",
+      "id": 5
+    },
+    {
+      "nome": "Cidade Invisível",
+      "ano": 2021,
+      "generoId": 1,
+      "status": "1º temporada concluída. Ansiosa pela 2ºt",
+      "id": 6
+    },
+    {
+      "nome": "Brooklyn Nine-Nine",
+      "ano": 2013,
+      "generoId": 5,
+      "status": "7ºt concluída. Não acredito que a 8ºt é a ultima",
+      "id": 7
+    },
+    {
+      "nome": "Doctor Who",
+      "ano": 2005,
+      "generoId": 3,
+      "status": "12x3",
+      "id": 8
+    }
+  ]
+}
